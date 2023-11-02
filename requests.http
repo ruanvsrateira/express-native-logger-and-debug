@@ -1,0 +1,6 @@
+
+// Getting /
+GET http://localhost:3000/?query=123
+
+// Getting /users
+GET http://localhost:3000/user
